@@ -1,0 +1,30 @@
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.2893900403287262
+  lightness: 0.7554982535075396
+  saturation: 0.6213679823558778
+  rhythmicContrast: 0.20513069559819996
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Chalk Family Photo
+layout_spectrum: 0.03325795056298375
+typography_spectrum: 0.6585981014650315
+content: []
+title: Chalk Family Photo Album
+description: ''
+github: true
+content_rating:
+  adult: false
+author:
+  name: Ken Chalk
+  email: kenchalk@icloud.com
